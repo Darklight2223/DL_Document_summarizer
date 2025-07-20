@@ -1,0 +1,39 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.egg-info/
+*.sqlite3
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Model files
+*.pt
+*.bin
+*.h5
+*.pkl
+my_local_T5_model/
+models/
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+.env.*
+
+# Node.js (if frontend is added later)
+node_modules/
+
+# Mac/Linux/Windows system files
+.DS_Store
+Thumbs.db
